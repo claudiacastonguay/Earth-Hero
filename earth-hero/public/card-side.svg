@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 29 503" style="enable-background:new 0 0 29 503;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Subtraction_2);}
+	.st1{fill:#FFFFFF;}
+</style>
+<filter  filterUnits="userSpaceOnUse" height="503" id="Subtraction_2" width="38.001" x="0" y="0">
+	<feOffset  dy="3" input="SourceAlpha"></feOffset>
+	<feGaussianBlur  result="blur" stdDeviation="3"></feGaussianBlur>
+	<feFlood  flood-opacity="0.161"></feFlood>
+	<feComposite  in2="blur" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g transform="matrix(1, 0, 0, 1, 0, 0)" class="st0">
+	<path id="Subtraction_2-2_1_" class="st1" d="M29,6v485c-5.6-1.1-10.6-4.2-14.3-8.6c-1.8-2.2-3.2-4.7-4.2-7.3
+		c-1-2.8-1.5-5.7-1.5-8.6v-436c0-2.9,0.5-5.8,1.5-8.6c1-2.7,2.4-5.1,4.2-7.3C18.4,10.2,23.4,7.1,29,6z"/>
+</g>
+</svg>
