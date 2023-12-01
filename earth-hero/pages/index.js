@@ -1,7 +1,7 @@
 import React from 'react';
 // import './home-page.css';
 import Link from 'next/link';
-import GreenButton from '../../comps/Green-button';
+import GreenButton from '../comps/Green-button';
 
 
 
