@@ -20,10 +20,10 @@ const Menu = () => <div>
 </div>
     <div id='menu-content'>
         <div id='link'>
-        <Link href='/Home-page'><span id='nav-icons' className="material-icons">
+        <Link href='/'><span id='nav-icons' className="material-icons">
             home
             </span></Link>
-            <Link href='/Home-page'><p id='link-text'>Home</p></Link>
+            <Link href='/'><p id='link-text'>Home</p></Link>
         </div>
 
 
